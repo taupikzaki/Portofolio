@@ -63,14 +63,14 @@ const Contact = () => {
         <div className="grid grid-cols-auto gap-6 mt-10 mb-8 dark:text-black">
           <input
             type="text"
-            placeholder="Masukan nama anda"
+            placeholder="Enter your name"
             required
             className="flex-1 p-3 outline-none border-[0.5px] border-gray-400 rounded-md bg-white"
             name="name"
           />
           <input
             type="text"
-            placeholder="Masukan email anda"
+            placeholder="Enter your email"
             required
             className="flex-1 p-3 outline-none border-[0.5px] border-gray-400 rounded-md bg-white"
             name="email"
@@ -78,7 +78,7 @@ const Contact = () => {
         </div>
         <textarea
           rows="6"
-          placeholder="Masukan pesan anda"
+          placeholder="Enter your message"
           required
           className="w-full p-4 outline-none border-[0.5px] border-gray-400 rounded-md bg-white mb-6 dark:text-black"
           name="message"
