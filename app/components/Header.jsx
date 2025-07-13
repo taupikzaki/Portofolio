@@ -50,7 +50,7 @@ const Header = () => {
           initial={{ y: -30, opacity: 0 }}
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.6, delay: 1.2 }}
-          href="/taupik-resume/pdf"
+          href="/CV-Taupik-Al-Muzaki.pdf"
           download
           className="px-10 py-3 border rounded-full bg-gray-500 flex items-center gap-2"
         >
