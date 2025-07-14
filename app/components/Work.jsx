@@ -22,7 +22,10 @@ const Work = () => {
         transition={{ duration: 0.6, delay: 0.3 }}
         className="flex flex-col"
       >
-        <a href="/" className="font-medium text-xl hover:text-teal-500">
+        <a
+          href="https://petaniemulator.com"
+          className="font-medium text-xl hover:text-teal-500"
+        >
           Petani Emulator
         </a>
         <p>A simple web where you can find emulator games</p>
