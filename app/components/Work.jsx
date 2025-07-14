@@ -1,5 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
+import Image from "next/image";
+import { assets } from "@/assets/assets";
 
 const Work = () => {
   return (
@@ -24,6 +26,18 @@ const Work = () => {
           Petani Emulator
         </a>
         <p>A simple web where you can find emulator games</p>
+        <a
+          href="/petani emulator.png"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/petani emulator.png"
+            alt="Foto"
+            width="100%"
+            height="100%"
+          />
+        </a>
       </motion.div>
     </div>
   );
