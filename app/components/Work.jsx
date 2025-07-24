@@ -25,7 +25,7 @@ const Work = () => {
         <a
           href="https://petaniemulator.com"
           target="_blank"
-          className="font-medium text-xl hover:text-teal-500"
+          className="font-medium text-xl hover:text-teal-500 underline"
         >
           Petani Emulator
         </a>
