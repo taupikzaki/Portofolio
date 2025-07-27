@@ -32,7 +32,7 @@ const Header = () => {
       >
         Hello, I'm Taupik Al Muzaki
         <Image src={assets.hand_icon} alt="" className="ml-2 w-6 inline" />
-        <br />A person who is interested in Front End Developer
+        <br />A person who fall in love with the world of coding
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
