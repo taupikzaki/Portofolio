@@ -20,7 +20,7 @@ const Work = () => {
         initial={{ y: -20, opacity: 0 }}
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.3 }}
-        className="flex flex-row gap-5"
+        className="flex flex-col lg:flex-row gap-5"
       >
         <div>
           <a
@@ -39,8 +39,8 @@ const Work = () => {
             <img
               src="/petani emulator.png"
               alt="Foto"
-              width="800px"
-              height="800px"
+              width="100%"
+              height="100%"
               className="rounded-lg"
             />
           </a>
@@ -58,8 +58,8 @@ const Work = () => {
             <img
               src="/x.jpeg"
               alt="Foto"
-              width="800px"
-              height="800px"
+              width="100%"
+              height="100%"
               className="rounded-lg"
             />
           </a>
