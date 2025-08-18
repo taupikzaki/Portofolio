@@ -56,7 +56,7 @@ const Work = () => {
           <p>social media App made with next js</p>
           <a href="/x.jpeg" target="_blank" rel="noopener noreferrer">
             <img
-              src="/x.jpeg"
+              src="/x-onprogress.png"
               alt="Foto"
               width="100%"
               height="100%"
