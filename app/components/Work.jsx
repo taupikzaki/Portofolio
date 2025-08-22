@@ -47,7 +47,7 @@ const Work = () => {
         </div>
         <div>
           <a
-            href="https://xtaupik.netlify.app/"
+            href="https://github.com/taupikzaki/x"
             target="_blank"
             className="font-medium text-xl hover:text-teal-500 underline"
           >
